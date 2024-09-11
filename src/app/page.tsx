@@ -6,6 +6,7 @@ export default function Home() {
       <h1>Rahul</h1>
       <h1>Ganiger</h1>
       <p>iuhskjfhewkjhfkjewhfkjewhkjfhwkjfhwjfhfjewej</p>
+      <div className="pt-6 text-2xl ">Hello World!</div>
     </>
   );
 }
